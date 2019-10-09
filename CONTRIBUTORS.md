@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Luis Sanchez](https://github.com/ogluisg)
+- Place: Canada
+- Bio: CS Student
+- GitHub: [Ogluisg](https://github.com/ogluisg)
